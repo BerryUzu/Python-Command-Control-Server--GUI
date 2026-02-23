@@ -65,7 +65,7 @@ A multithreaded client-server application built in Python that allows a GUI-base
 
 
 
-Disclaimer: 
+Disclaimer:
 This project is for educational purposes only.
 I do not take responsibility for any misuse.
 
